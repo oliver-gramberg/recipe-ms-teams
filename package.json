@@ -1,13 +1,12 @@
 {
-  "id": "whatsapp",
-  "name": "WhatsApp",
-  "version": "1.0.4",
-  "description": "WhatsApp",
+  "id": "ms-teams",
+  "name": "Microsoft Teams",
+  "version": "1.0.0",
+  "description": "Microsoft Teams web client",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Oliver Gramberg <oliver.gramberg@gmx.de>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://web.whatsapp.com",
-    "hasNotificationSound": true
+    "serviceURL": "https://teams.microsoft.com/"
   }
 }
